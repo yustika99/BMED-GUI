@@ -1,0 +1,12 @@
+# requirements.txt
+
+gradio
+numpy
+pandas
+scikit-learn
+
+# IMPORTANT: If your Artificial Neural Network (ANN) was built using a library
+# like TensorFlow/Keras or PyTorch, you MUST add it to this list.
+# For example, uncomment one of the lines below if needed:
+# tensorflow
+# torch
